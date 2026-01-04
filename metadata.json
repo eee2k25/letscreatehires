@@ -1,0 +1,5 @@
+{
+  "name": "HREMS Digital Twin",
+  "description": "A high-performance Hybrid Renewable Energy Management System dashboard featuring real-time telemetry simulation, power flow visualization, and AI-driven energy optimization advice.",
+  "requestFramePermissions": []
+}
